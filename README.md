@@ -7,7 +7,7 @@
 ### I'm currently learning...
 ### - How to use github 😄
 ### - Machine learning
-### - Web developing
+### - Web development
 
 ### Have an octotastic day!
 
