@@ -2,7 +2,7 @@
 ### I started my undergraduate life in 2021, majoring in AI Convergence at Soongsil University in Koera
 ### 
 ### Human Language: English, Korean
-### Computer Language: Python, C, C++, HTML, little bit of R
+### Computer Language: Python, C, C++, HTML, little bit of Java, R
 ###
 ### I'm currently learning...
 ### - How to use github 😄
