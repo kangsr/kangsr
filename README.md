@@ -1,15 +1,4 @@
-### Hi there 👋 It's Seryun's github
-### I started my undergraduate life in 2021, majoring in AI Convergence at Soongsil University in Koera
-### 
-### Human Language: English, Korean
-### Computer Language: Python, C, C++, HTML, little bit of Java, R
-###
-### I'm currently learning...
-### - How to use github 😄
-### - Machine learning
-### - Web development
 
-### Have an octotastic day!
 
 <!--
 **kangsr/kangsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
